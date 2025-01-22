@@ -22,8 +22,8 @@
 // Data Types
 
 // 1. String
-let firstName = 'Ishaq'; 
-// examples = "Farrukh", "An Apple", "#", "8" "email@test.com"
+let firstName = 'Aliyan'; 
+// examples = "Ahad", "An Apple", "#", "8" "email@test.com"
 // Any letter, word or sentence is String in JavaScript
 
 // 2. Number
